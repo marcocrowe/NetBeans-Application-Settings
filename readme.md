@@ -1,4 +1,4 @@
-# Apache NetBeans-Application-Settings
+# Apache NetBeans: Application Settings
 
 ## Introduction
 
