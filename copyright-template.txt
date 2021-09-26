@@ -1,0 +1,3 @@
+${licensePrefix}
+${licensePrefix}Copyright (c) ${date?date?string("yyyy")} ${user}. All rights reserved.
+${licensePrefix}
