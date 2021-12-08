@@ -6,8 +6,8 @@ My NetBeans installation is setup to program in Java.  These are the settings, p
 
 ## Requirements
 
-- [Java SE Development Kit 16.0.2](https://www.oracle.com/java/technologies/javase-jdk16-downloads.html)
-- [Apache NetBeans &gt;= 12.5](https://netbeans.apache.org/)
+- [Java SE Development Kit 17.0.1](https://www.oracle.com/java/technologies/downloads/)
+- [Apache NetBeans &GreaterEqual; 12.6](https://netbeans.apache.org/)
 
 ## Settings
 
@@ -31,9 +31,9 @@ Change this to your name and website and save and close the file.  For myself it
 > ![Sample](./docs/windows-context-menu-screenshot.png)
 > Context menu screenshot
 
-To add the Context menu entry save and download the link: [Add-Context-Menu-NetBeans-12.5](./windows-context-menu/Open-In-NetBeans;%20Version%2012.5;%20Add.reg?raw=true) and run the file. For other versions see the [windows-context-menu](./windows-context-menu/) directory and select the file for your version of NetBeans.
+To add the Context menu entry save and download the link: [Add-Context-Menu-NetBeans-12.6](./windows-context-menu/open-in-netbeans-version-12.6-add.reg?raw=true) and run the file. For other versions see the [windows-context-menu](./windows-context-menu/) directory and select the file for your version of NetBeans.
 
-To remove the Context Menu save and download the link: [Remove-Context-Menu-NetBeans-12.5](./windows-context-menu/Open-In-NetBeans;%20Remove.reg?raw=true) and run the file.
+To remove the Context Menu save and download the link: [Remove-Context-Menu-NetBeans](./windows-context-menu/open-in-netbeans-remove.reg?raw=true) and run the file.
 
 ## Plugin Instructions
 
@@ -45,7 +45,7 @@ Open `Apache NetBeans`.  On the menu bar open `Tools`, choose `Plugins`.  Click 
 - `sonarlint4netbeans`
 - `Rainbow Braces`
 
-Click `Install` and follow any `NetBeans IDE Installers` instructions, choosing `Next`, tick `accept the terms in all of the licence arguments`, clicking `Install` and `Verify Certificates`.
+Click `Install` and follow any `NetBeans IDE Installers` instructions, choosing `Next`, tick `accept the terms in all of the license arguments`, clicking `Install` and `Verify Certificates`.
 
 ### NetBeans Plugins Used
 
@@ -57,4 +57,4 @@ Click `Install` and follow any `NetBeans IDE Installers` instructions, choosing 
 
 ---
 
-Copyright (c) 2021 Mark Crowe [https://github.com/markcrowe-com](https://github.com/markcrowe-com). All rights reserved.
+Copyright &copy; 2021 Mark Crowe <https://github.com/markcrowe-com> . All rights reserved.
