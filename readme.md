@@ -7,7 +7,7 @@ My NetBeans installation is setup to program in Java.  These are the settings, p
 ## Requirements
 
 - [Java SE Development Kit 17.0.1](https://www.oracle.com/java/technologies/downloads/)
-- [Apache NetBeans &GreaterEqual; 12.6](https://netbeans.apache.org/)
+- [Apache NetBeans &GreaterEqual; 13](https://netbeans.apache.org/)
 
 ## Settings
 
@@ -31,7 +31,7 @@ Change this to your name and website and save and close the file.  For myself it
 > ![Sample](./docs/windows-context-menu-screenshot.png)
 > Context menu screenshot
 
-To add the Context menu entry save and download the link: [Add-Context-Menu-NetBeans-12.6](./windows-context-menu/open-in-netbeans-version-12.6-add.reg?raw=true) and run the file. For other versions see the [windows-context-menu](./windows-context-menu/) directory and select the file for your version of NetBeans.
+To add the Context menu entry save and download the link: [Add-Context-Menu-NetBeans-13.0](./windows-context-menu/open-in-netbeans-version-13.0-add.reg?raw=true) and run the file. For other versions see the [windows-context-menu](./windows-context-menu/) directory and select the file for your version of NetBeans.
 
 To remove the Context Menu save and download the link: [Remove-Context-Menu-NetBeans](./windows-context-menu/open-in-netbeans-remove.reg?raw=true) and run the file.
 
