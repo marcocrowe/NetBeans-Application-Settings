@@ -7,13 +7,13 @@ My NetBeans installation is setup to program in Java. These are the settings, pl
 
 ## Requirements
 
-* [Java SE Development Kit 18.0.1.1](https://www.oracle.com/java/technologies/downloads/)
-* [Apache NetBeans &GreaterEqual; 14](https://netbeans.apache.org/)
+- [Java SE Development Kit 18.0.1.1](https://www.oracle.com/java/technologies/downloads/)
+- [Apache NetBeans &GreaterEqual; 14](https://netbeans.apache.org/)
 
 ## Settings
 
-* [netbeans-settings.zip](./releases/netbeans-settings.zip?raw=true) - My recommended settings for NetBeans.
-* [netbeans-default.zip](./releases/netbeans-default.zip?raw=true) - The default settings for NetBeans. *(incase you need to reset your changes)*
+- [netbeans-settings.zip](./releases/netbeans-settings.zip?raw=true) - My recommended settings for NetBeans.
+- [netbeans-default.zip](./releases/netbeans-default.zip?raw=true) - The default settings for NetBeans. *(incase you need to reset your changes)*
 
 ### Instructions
 
@@ -40,21 +40,23 @@ To remove the Context Menu save and download the link: [Remove-Context-Menu-NetB
 
 Open `Apache NetBeans`. On the menu bar open `Tools`, choose `Plugins`. Click the `Settings` tab and tick `NetBeans 8.2 Plugin Portal`. Then select `Available Plugins` and tick install for the following plugins.
 
-* `gitignore.io`
-* `NB SpringBoot`
-* `NetBeans Case Converter`
-* `sonarlint4netbeans`
-* `Rainbow Braces`
+- `gitignore.io`
+- `NB SpringBoot`
+- `NetBeans Case Converter`
+- `Rainbow Braces`
+- `sonarlint4netbeans`
 
 Click `Install` and follow any `NetBeans IDE Installers` instructions, choosing `Next`, tick `accept the terms in all of the license arguments`, clicking `Install` and `Verify Certificates`.
 
 ### NetBeans Plugins Used
 
-* gitignore.&#8203;io
-* NB SpringBoot
-* NetBeans Case Converter
-* Rainbow Braces
-* sonarlint4netbeans
+[//]: # (Comment: &#8203; is the HTML entity for a zero width space. It used to prevent the link from being parsed by the markdown parser)
+
+- gitignore.&#8203;io
+- NB SpringBoot
+- NetBeans Case Converter
+- Rainbow Braces
+- sonarlint4netbeans
 
 ---
 
